@@ -4,7 +4,7 @@ I study physics with a minor in electrical engineering at Washington University 
 
 ### Selected work
 
-- **[GENESIS](https://github.com/EricZhu-31/Genesis-Calhack13.0)** — Cal Hacks 13.0 team project. Built a judge-facing dashboard that traces AI-agent runs to artifacts, scoring receipts, and costs, plus a reproducible scheduling evaluation.
+- **[GENESIS](https://github.com/EricZhu-31/Genesis-Calhack13.0)** — Cal Hacks 13.0 team project. Co-built Rust middleware for governed AI-agent organizations and versioned capability exchange; developed the React/TypeScript control plane for organization state and audit evidence.
 - **[Smart Climate Decision System](https://github.com/HenryWashuHe/washuhackathon2025)** — Led a team building a climate decision platform and developed its Next.js/Mapbox interface and optimization dashboard. Won 3rd prize in the 2025 WashU Hackathon AI track.
 - **[AuscultAI](https://github.com/EricZhu-31/2026DevfestAuscult-AI)** — DevFest 2026 team project exploring heart-sound analysis with a Raspberry Pi stethoscope and AI-assisted review.
 - **Lift** — Contributed the diet module to a private iOS fitness app, including SwiftUI/SwiftData meal logging and a consent-based photo-to-calorie flow backed by FastAPI and Gemini. The team repository is private.
