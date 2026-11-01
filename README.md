@@ -1,16 +1,16 @@
-## Hi there 👋
+# Eric (Runze) Zhu
 
-<!--
-**EricZhu-31/EricZhu-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study physics with a minor in electrical engineering at Washington University in St. Louis. I build AI tools, product interfaces, and scientific software, and I help organize hackathons at WashU.
 
-Here are some ideas to get you started:
+### Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[GENESIS](https://github.com/EricZhu-31/Genesis-Calhack13.0)** — Cal Hacks 13.0 team project. Built a judge-facing dashboard that traces AI-agent runs to artifacts, scoring receipts, and costs, plus a reproducible scheduling evaluation.
+- **[Smart Climate Decision System](https://github.com/HenryWashuHe/washuhackathon2025)** — Led a team building a climate decision platform and developed its Next.js/Mapbox interface and optimization dashboard. Won 3rd prize in the 2025 WashU Hackathon AI track.
+- **[AuscultAI](https://github.com/EricZhu-31/2026DevfestAuscult-AI)** — DevFest 2026 team project exploring heart-sound analysis with a Raspberry Pi stethoscope and AI-assisted review.
+- **Lift** — Contributed the diet module to a private iOS fitness app, including SwiftUI/SwiftData meal logging and a consent-based photo-to-calorie flow backed by FastAPI and Gemini. The team repository is private.
+
+### Community
+
+As HackWashU president, I led a 20-member executive team that organized three hackathons with more than 600 participants in total.
+
+[LinkedIn](https://www.linkedin.com/in/eric-zhu-127167330/)
